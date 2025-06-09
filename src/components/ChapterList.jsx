@@ -4,6 +4,7 @@ import ChapterCard from "./ChapterCard";
 const chapters = [
   { id: 1, title: "Dificuldades e oportunidades", teacherPdf: "/assets/pdfs/Educador_Capitulo_1_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_1_2a.pdf" },
   { id: 2, title: "Uma andorinha só não faz verão", teacherPdf: "/assets/pdfs/Educador_Capitulo_2_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_2_2a.pdf" },
+  { id: 3, title: "Quem não se comunica, se trumbica!", teacherPdf: "/assets/pdfs/Educador_Capitulo_3_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_3_2a.pdf" },
   
 ];
 
