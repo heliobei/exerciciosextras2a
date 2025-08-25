@@ -7,7 +7,10 @@ const chapters = [
   { id: 3, title: "Quem não se comunica, se trumbica!", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_2a.pdf" },
   { id: 4, title: "Como as empresas descobrem o que você quer comprar?", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_2a.pdf" },
   { id: 5, title: "Um negócio bom pra cachorro", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_2a.pdf" },
-  
+
+  { id: 6, title: "Quem não é lembrado é esquecido", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_2a.pdf" },
+  { id: 7, title: "Com que roupa eu vou?", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_2a.pdf" },
+  { id: 8, title: "Um por todos, todos por um!", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_2a.pdf" },
 ];
 
 const ChapterList = () => {
