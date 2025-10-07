@@ -11,6 +11,13 @@ const chapters = [
   { id: 6, title: "Quem não é lembrado é esquecido", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_2a.pdf" },
   { id: 7, title: "Com que roupa eu vou?", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_2a.pdf" },
   { id: 8, title: "Um por todos, todos por um!", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_2a.pdf" },
+
+  { id: 9, title: "O que é ser um líder?", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_2a.pdf" },
+  { id: 10, title: "Colhendo os frutos do nosso esforço.", teacherPdf: "/assets/pdfs/Educador_Capitulo_10_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_10_2a.pdf" },
+  { id: 11, title: "O que aconteceria se...?", teacherPdf: "/assets/pdfs/Educador_Capitulo_11_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_11_2a.pdf" },
+  { id: 12, title: "Jogando dados", teacherPdf: "/assets/pdfs/Educador_Capitulo_12_2a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_12_2a.pdf" },
+  
+
 ];
 
 const ChapterList = () => {
